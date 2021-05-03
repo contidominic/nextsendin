@@ -18,7 +18,7 @@ function HomePage() {
   };
 
   return(<div style={buttonWrapperStyle}>
-      <input type="text" value="https://craftcode.design/" /><button  onClick={ () => handleOnClick()}>Send me this url</button>
+      <input type="text" value="https://craftcfode.design/" /><button  onClick={ () => handleOnClick()}>Send me this url</button>
     </div>)
 }
 
